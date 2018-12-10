@@ -1,0 +1,2 @@
+# palm
+palm tree classification
